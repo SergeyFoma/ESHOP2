@@ -1,3 +1,5 @@
 from django.shortcuts import render
 
-# Create your views here.
+# https://pocoz.gitbooks.io/django-v-primerah/content/glava-7-sozdanie-internet-magazina/sozdanie-proekta-internet-magazina/sozdanie-modelei-kataloga-produktov.html
+
+
