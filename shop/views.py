@@ -2,4 +2,5 @@ from django.shortcuts import render
 
 # https://pocoz.gitbooks.io/django-v-primerah/content/glava-7-sozdanie-internet-magazina/sozdanie-proekta-internet-magazina/sozdanie-modelei-kataloga-produktov.html
 
-
+def index(request):
+    return render(request, "shop/index.html", {})
